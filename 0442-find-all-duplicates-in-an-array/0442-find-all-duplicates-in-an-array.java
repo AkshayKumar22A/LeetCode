@@ -5,7 +5,6 @@ class Solution {
             int index = Math.abs(nums[i]) - 1;
             if (nums[index] < 0) {
                 sol.add(Math.abs(nums[i]));
-                continue;
             }
             nums[index] *= -1;
         }
