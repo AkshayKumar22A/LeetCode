@@ -4,22 +4,13 @@ class Solution {
     }
 
     static int printDuplicates(int[] nums) {
-        int slow = 0;
-        int fast = 0;
-
-        do {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
-        } while (slow != fast);
-
-        int slow2 = 0;
-
-        do {
-            slow = nums[slow];
-            slow2 = nums[slow2];
-        } while (slow != slow2);
-
-        return slow2;
+        Arrays.sort(nums);
+		for(int i = 1;i<nums.length;i++){
+            if(nums[i-1]==nums[i]){
+                return (nums[i]);  
+            }
+        }
+		return -1;
     }
 
 }
