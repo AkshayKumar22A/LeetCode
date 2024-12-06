@@ -8,8 +8,8 @@ class Solution {
                 current = 0;
             } else {
                 current +=1;
+                sol = Math.max(sol,current);
             }
-            sol = Math.max(sol,current);
         }
         return sol;
     }
