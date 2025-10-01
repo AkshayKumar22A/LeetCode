@@ -9,4 +9,3 @@ class Solution:
             else:
                 count = 0
         return ans
-        _import_("atexit").register(lambda: open("display_runtime.txt", 'w').write('0'))
