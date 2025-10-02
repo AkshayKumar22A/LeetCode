@@ -13,5 +13,4 @@ class Solution:
             return ans[len(ans)//2],ans[len(ans)//2]
         else:
             return ans[(len(ans)//2)-1],ans[len(ans)//2]
-        return -1
         
