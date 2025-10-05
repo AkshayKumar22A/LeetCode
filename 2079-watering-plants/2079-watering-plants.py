@@ -3,18 +3,16 @@ class Solution:
         l = len(plants)
         water = capacity
         ans = 0
-        count = 0
         start = 0
         while start<l :
             if water >= plants[start]:
-                print(f"water:{water}, plants:{plants[start]}")
                 water -= plants[start]
-                count +=1
+                ans +=1
                 start+=1
-            elif water < plants[start]:
+            else:
                 water = capacity
-                count+=start*2
-        return count
+                ans+=start*2
+        return ans
 
             
         
