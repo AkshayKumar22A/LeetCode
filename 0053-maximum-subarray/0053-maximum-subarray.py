@@ -3,8 +3,6 @@ class Solution:
         l = len(nums)
         sum = 0
         ans = float("-inf")
-        if l < 2:
-            return nums[0]
         for i in range(l):
             if sum < 0:
                 sum = 0
