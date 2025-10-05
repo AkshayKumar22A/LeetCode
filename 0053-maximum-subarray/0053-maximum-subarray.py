@@ -6,6 +6,6 @@ class Solution:
         for i in range(l):
             if sum < 0:
                 sum = 0
-            sum = sum + nums[i]
+            sum += nums[i]
             ans = max(sum,ans)
         return ans
