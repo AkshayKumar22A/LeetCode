@@ -9,10 +9,8 @@ class Solution:
                 p.append(nums[i])
             else:
                 n.append(nums[i])
-
-        loc = 0
-        while loc < l//2:
-            nums[loc*2] = p[loc]
-            nums[loc*2+1] = n[loc]
-            loc+=1
+        
+        for i in range(l//2):
+            nums[i*2] = p[i]
+            nums[i*2+1] = n[i]
         return nums
