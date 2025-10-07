@@ -5,8 +5,10 @@ class Solution:
         ans = 0
         nums.sort()
         print(l)
-        if l < 2:
+        if l == 0:
             return 0
+        if l == 1:
+            return 1
         for i in range(l-1):
             if nums[i] == nums[i+1]:
                 continue
