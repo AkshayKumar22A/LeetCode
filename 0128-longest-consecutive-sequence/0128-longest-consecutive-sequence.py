@@ -4,7 +4,6 @@ class Solution:
         count = 0
         ans = 0
         nums.sort()
-        print(l)
         if l == 0:
             return 0
         if l == 1:
