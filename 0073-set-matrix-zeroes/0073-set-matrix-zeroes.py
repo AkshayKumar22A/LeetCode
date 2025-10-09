@@ -14,11 +14,7 @@ class Solution:
                     rowtrack[i] = -1
                     coltrack[j] = -1
         
-        for i in range(row):
-            if rowtrack[i] == -1:
-                for j in range(col):
-                    matrix[i][j] = 0
-        for i in range(col):
-            if coltrack[i] == -1:
-                for j in range(row):
-                    matrix[j][i] = 0
+        for a in range(row):
+            for b in range(col):
+                if rowtrack[a] == -1 or coltrack[b] == -1:
+                    matrix[a][b] = 0
