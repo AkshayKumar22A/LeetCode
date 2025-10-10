@@ -5,8 +5,6 @@ class Solution:
         """
         row = len(matrix)
         col = len(matrix[0])
-        row = len(matrix)
-        col = len(matrix[0])
         result = [[0 for _ in range(row)] for _ in range(col)]
 
         for i in range(row):
