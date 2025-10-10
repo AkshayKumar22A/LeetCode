@@ -5,12 +5,10 @@ class Solution:
         """
         row = len(matrix)
         col = len(matrix[0])
-        result = [[0 for _ in range(row)] for _ in range(col)]
 
         for i in range(row):
-            for j in range(col):
-                result[j][col-i-1] = matrix[i][j]
-
+            for j in range(i,col):
+                matrix[j][i],matrix[i][j] = matrix[i][j],matrix[j][i]
+        
         for i in range(row):
-            for j in range(col):
-                matrix[i][j] = result[i][j]
+            matrix[i].reverse()
