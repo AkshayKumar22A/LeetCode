@@ -5,21 +5,14 @@ class Solution:
         """
         row = len(matrix)
         col = len(matrix[0])
-        rotate = [[0 for _ in range(row)] for _ in range(col)]
+        row = len(matrix)
+        col = len(matrix[0])
+        result = [[0 for _ in range(row)] for _ in range(col)]
 
         for i in range(row):
             for j in range(col):
-                rotate[j][i] = matrix[i][j]
-
-      
-        for i in range(row):
-            start = 0
-            end = col - 1  
-            while start <= end:
-                rotate[i][start],rotate[i][end] = rotate[i][end],rotate[i][start]
-                start+=1
-                end-=1
+                result[j][col-i-1] = matrix[i][j]
 
         for i in range(row):
             for j in range(col):
-                matrix[i][j] = rotate[i][j]
+                matrix[i][j] = result[i][j]
