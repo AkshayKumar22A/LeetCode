@@ -4,7 +4,6 @@ class Solution:
         first = -1
         sec = -1
         for i in range(l):
-            print(nums[i])
             if nums[i] == target:
                 if first == -1:
                     first = i
