@@ -3,7 +3,7 @@ class Solution:
         n = len(s)
         k = n - 2
         
-        digits = [int(d) for d in s]
+        digits = [ord(ch) - 48 for ch in s]
 
         coeffs = [1] * (n - 1)
         
