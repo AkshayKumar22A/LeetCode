@@ -1,27 +1,27 @@
 class Solution:
     def canPartitionGrid(self, grid: List[List[int]]) -> bool:
-        rows = len(grid)
-        cols = len(grid[0])
-        rowsum = [0] * rows
-        colsum = [0] * cols
-            
-        for col in range(cols):
-            for row in range(rows):
-                rowsum[row] += grid[row][col]
-                colsum[col] += grid[row][col]
-
-        for i in range(1, rows):
-            rowsum[i] = rowsum[i] + rowsum[i-1]
-        total_sum = rowsum[-1]
-        for i in range(0, rows):
-            if rowsum[i] == total_sum - rowsum[i]:
+        totalSum = 0
+        s=0
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                totalSum += grid[i][j]
+        
+        for i in range(len(grid)):
+            if i==len(grid)-1:
+                break
+            for j in range(len(grid[0])):
+                s+=grid[i][j]
+            reqSum = totalSum-s
+            if reqSum==s:
                 return True
-
-        for i in range(1, cols):
-            colsum[i] = colsum[i] + colsum[i-1]
-        total_col_sum = colsum[-1]
-        for j in range(0, cols):
-            if colsum[j] == total_col_sum - colsum[j]:
+        
+        s=0
+        for i in range(len(grid[0])):
+            if i ==len(grid[0])-1:
+                break
+            for j in range(len(grid[0])):
+                s+=grid[j][i]
+            reqSum = totalSum-s
+            if(reqSum==s):
                 return True
-
         return False
