@@ -19,7 +19,7 @@ class Solution:
         for i in range(len(grid[0])):
             if i ==len(grid[0])-1:
                 break
-            for j in range(len(grid[0])):
+            for j in range(len(grid)):
                 s+=grid[j][i]
             reqSum = totalSum-s
             if(reqSum==s):
