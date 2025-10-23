@@ -2,24 +2,29 @@ class Solution:
     def canPartitionGrid(self, grid: List[List[int]]) -> bool:
         rows = len(grid)
         cols = len(grid[0])
+        
+        total_sum = sum(sum(row) for row in grid)
+    
+        if total_sum % 2 != 0:
+            return False
 
-        # Horizontal cuts
-        row_prefix = [0]
-        for r in grid:
-            row_prefix.append(row_prefix[-1] + sum(r))
-        total_sum = row_prefix[-1]
-        for i in range(1, rows):
-            if row_prefix[i] == total_sum - row_prefix[i]:
+        target_sum = total_sum // 2
+        
+        # Check for Horizontal Cuts (Row-wise Prefix Sum)
+        current_sum = 0
+        for i in range(rows - 1):
+            current_sum += sum(grid[i])
+            if current_sum == target_sum:
+                return True
+        
+        # Check for Vertical Cuts (Column-wise Summation)
+        current_sum = 0
+        for j in range(cols - 1):
+            column_sum = 0
+            for i in range(m):
+                column_sum += grid[i][j]
+            current_sum += column_sum
+            if current_sum == target_sum:
                 return True
 
-        # Vertical cuts
-        col_prefix = [0] * (cols + 1)
-        for j in range(cols):
-            column_sum = sum(grid[i][j] for i in range(rows))
-            col_prefix[j + 1] = col_prefix[j] + column_sum
-        total_col_sum = col_prefix[-1]
-        for j in range(1, cols):
-            if col_prefix[j] == total_col_sum - col_prefix[j]:
-                return True
-
-        return False
+        return False   
