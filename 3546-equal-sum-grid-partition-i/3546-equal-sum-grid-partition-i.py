@@ -2,7 +2,7 @@ class Solution:
     def canPartitionGrid(self, grid: List[List[int]]) -> bool:
         rows = len(grid)
         cols = len(grid[0])
-        
+
         total_sum = sum(sum(row) for row in grid)
     
         if total_sum % 2 != 0:
@@ -21,7 +21,7 @@ class Solution:
         current_sum = 0
         for j in range(cols - 1):
             column_sum = 0
-            for i in range(m):
+            for i in range(rows):
                 column_sum += grid[i][j]
             current_sum += column_sum
             if current_sum == target_sum:
