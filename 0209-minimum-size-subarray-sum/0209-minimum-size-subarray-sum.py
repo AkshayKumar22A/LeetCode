@@ -12,6 +12,3 @@ class Solution:
                 slow+=1  
             fast+=1
         return ans if ans != float('inf') else 0
-
-                
-        
