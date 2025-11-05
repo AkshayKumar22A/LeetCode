@@ -5,11 +5,10 @@ class Solution:
         high = len(nums) - 1
         while(low <= high):
             mid = low + (high - low) // 2
+            ans = min(ans,nums[mid])
             if nums[mid] > nums[high]:
-                #ans = min(ans,nums[mid])
                 low = mid + 1
             else:
-                ans = min(ans,nums[mid])
                 high = mid - 1
         return ans     
         
