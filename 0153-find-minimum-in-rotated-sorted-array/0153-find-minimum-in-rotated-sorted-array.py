@@ -6,7 +6,7 @@ class Solution:
         while(low <= high):
             mid = low + (high - low) // 2
             if nums[mid] > nums[high]:
-                ans = min(ans,nums[mid])
+                #ans = min(ans,nums[mid])
                 low = mid + 1
             else:
                 ans = min(ans,nums[mid])
