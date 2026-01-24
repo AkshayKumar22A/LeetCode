@@ -12,7 +12,7 @@ class Solution:
             temp = temp.next
         count = count / 2
         count = math.ceil(count)
-        print(count)
+
         if count == 0:
             return None
         
