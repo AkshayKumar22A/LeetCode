@@ -5,16 +5,24 @@
 #         self.next = next
 class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head or head.next == None:
+        # Edge Case: If list has only 1 node, delete it and return None
+        if not head.next:
             return None
-
-        slow,fast = head,head
-        prev = None
+            
+        slow = head
+        fast = head.next.next # Start fast 2 steps ahead!
+        
+        # Why start fast at head.next.next?
+        # We want 'slow' to stop ONE STEP BEFORE the middle.
+        
         while fast and fast.next:
-            prev = slow
             slow = slow.next
             fast = fast.next.next
-        prev.next = slow.next
+            
+        # Now 'slow' is exactly behind the middle node.
+        # Skip the middle node:
+        slow.next = slow.next.next
+        
         return head
 
         
