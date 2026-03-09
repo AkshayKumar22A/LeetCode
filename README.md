@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/AkshayKumar22A/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
