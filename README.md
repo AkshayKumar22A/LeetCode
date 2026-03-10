@@ -25,12 +25,14 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/AkshayKumar22A/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -48,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
