@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/AkshayKumar22A/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AkshayKumar22A/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkshayKumar22A/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AkshayKumar22A/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkshayKumar22A/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkshayKumar22A/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -62,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AkshayKumar22A/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkshayKumar22A/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
