@@ -10,6 +10,9 @@ class Solution:
             if i != len(digits)-1 and digits[i] != 9 and carry == 1:
                 digits[i] = digits[i] + 1
                 carry = 0
+            elif digits[i] == 9 and carry == 1:
+                digits[i] = 0
+
         if carry == 1:
             digits.insert(0, 1)
         return digits
