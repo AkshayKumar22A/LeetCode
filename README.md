@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/AkshayKumar22A/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AkshayKumar22A/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/AkshayKumar22A/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/AkshayKumar22A/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/AkshayKumar22A/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkshayKumar22A/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/AkshayKumar22A/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0735-asteroid-collision](https://github.com/AkshayKumar22A/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
