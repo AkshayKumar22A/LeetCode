@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshayKumar22A/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AkshayKumar22A/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshayKumar22A/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/AkshayKumar22A/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -86,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/AkshayKumar22A/LeetCode/tree/main/0066-plus-one/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshayKumar22A/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
