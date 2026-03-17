@@ -7,7 +7,7 @@ class Solution:
         while fast < len(nums):
             if nums[fast] == 0:
                 zero += 1
-            while zero > k:
+            if zero > k:
                 if nums[slow] == 0:
                     zero -= 1
                 slow += 1
