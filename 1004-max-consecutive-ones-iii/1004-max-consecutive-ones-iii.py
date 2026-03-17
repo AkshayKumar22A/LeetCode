@@ -4,7 +4,7 @@ class Solution:
         slow = 0
         fast = 0
         zero = 0
-        while fast < len(nums):
+        for fast in range(len(nums)):
             if nums[fast] == 0:
                 zero += 1
             if zero > k:
@@ -13,5 +13,4 @@ class Solution:
                 slow += 1
             if zero <= k:
                 ans = max(ans,fast-slow+1)
-            fast += 1
         return ans
