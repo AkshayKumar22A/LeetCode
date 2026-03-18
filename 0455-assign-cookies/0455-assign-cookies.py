@@ -7,7 +7,6 @@ class Solution:
         while left < len(g) and right < len(s):
             if g[left] <= s[right]:
                 ans += 1
-                right += 1
                 left+= 1
             right += 1
         return ans
