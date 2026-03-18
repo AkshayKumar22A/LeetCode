@@ -10,7 +10,7 @@ class Solution:
                 ans += 1
                 right += 1
                 left+= 1
-            elif g[left] >= s[right]:
+            else:
                 right += 1
         return ans
         
