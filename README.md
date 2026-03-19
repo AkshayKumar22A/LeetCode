@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/AkshayKumar22A/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0860-lemonade-change](https://github.com/AkshayKumar22A/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AkshayKumar22A/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshayKumar22A/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkshayKumar22A/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -115,4 +116,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/AkshayKumar22A/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
