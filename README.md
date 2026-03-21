@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/AkshayKumar22A/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
@@ -115,6 +116,11 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/AkshayKumar22A/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
