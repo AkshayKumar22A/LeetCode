@@ -1,14 +1,16 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        step = 0
-        left = 0
-        right = 0
-        while right < len(nums) - 1:
-            farthest = 0
-            for i in range(left,right+1):
-                farthest = max(farthest,i+nums[i])
-            left = right + 1
-            right = farthest
-            step += 1
-        return step
+        dp = [[-1] * len(nums) for _ in range(len(nums))]
+        return int(self.solve(nums,0,0,dp))
+    
+    def solve(self,nums,idx,step,dp):
+        if idx >= len(nums)-1:
+            return step
+        if dp[idx][step] != -1:
+            return dp[idx][step]
         
+        min_step = float("inf")
+        for i in range(1,nums[idx]+1):
+            min_step = min(min_step,self.solve(nums,idx+i,step+1,dp))
+        dp[idx][step] = min_step
+        return min_step
