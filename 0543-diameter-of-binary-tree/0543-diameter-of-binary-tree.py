@@ -7,15 +7,15 @@
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         self.diameter = 0
-        self.solve(root,self.diameter)
+        self.solve(root)
         return self.diameter
 
     
-    def solve(self,root,diameter):
+    def solve(self,root):
         if root is None:
             return 0
-        lh = self.solve(root.left,diameter)
-        rh = self.solve(root.right,diameter)
+        lh = self.solve(root.left)
+        rh = self.solve(root.right)
         self.diameter = max(self.diameter,(lh+rh))
         return 1 + max(lh,rh)
         
