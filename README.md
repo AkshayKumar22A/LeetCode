@@ -134,21 +134,25 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshayKumar22A/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshayKumar22A/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshayKumar22A/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
