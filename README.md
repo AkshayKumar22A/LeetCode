@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/AkshayKumar22A/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AkshayKumar22A/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/AkshayKumar22A/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/AkshayKumar22A/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -62,12 +63,14 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkshayKumar22A/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## String
@@ -103,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshayKumar22A/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AkshayKumar22A/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshayKumar22A/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshayKumar22A/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -110,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/AkshayKumar22A/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshayKumar22A/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -155,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshayKumar22A/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
