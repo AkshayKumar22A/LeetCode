@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +172,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
