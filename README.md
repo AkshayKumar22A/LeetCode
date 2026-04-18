@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0066-plus-one](https://github.com/AkshayKumar22A/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AkshayKumar22A/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/AkshayKumar22A/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/AkshayKumar22A/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/AkshayKumar22A/LeetCode/tree/main/0441-arranging-coins/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshayKumar22A/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshayKumar22A/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
