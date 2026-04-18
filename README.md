@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/AkshayKumar22A/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AkshayKumar22A/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshayKumar22A/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshayKumar22A/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AkshayKumar22A/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshayKumar22A/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1470-shuffle-the-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/AkshayKumar22A/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshayKumar22A/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshayKumar22A/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +175,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshayKumar22A/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
