@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1550-three-consecutive-odds](https://github.com/AkshayKumar22A/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AkshayKumar22A/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/AkshayKumar22A/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AkshayKumar22A/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
