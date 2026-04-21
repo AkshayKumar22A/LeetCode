@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AkshayKumar22A/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/AkshayKumar22A/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/AkshayKumar22A/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AkshayKumar22A/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AkshayKumar22A/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/AkshayKumar22A/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/AkshayKumar22A/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
