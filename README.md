@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/AkshayKumar22A/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1861-rotating-the-box](https://github.com/AkshayKumar22A/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AkshayKumar22A/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AkshayKumar22A/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Hash Table
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/AkshayKumar22A/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/AkshayKumar22A/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkshayKumar22A/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1861-rotating-the-box](https://github.com/AkshayKumar22A/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/AkshayKumar22A/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshayKumar22A/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshayKumar22A/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1861-rotating-the-box](https://github.com/AkshayKumar22A/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
