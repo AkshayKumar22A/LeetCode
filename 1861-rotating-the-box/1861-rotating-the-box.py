@@ -1,9 +1,10 @@
 class Solution:
     def rotateTheBox(self, boxGrid: List[List[str]]) -> List[List[str]]:
         ans = [["" for _ in range(len(boxGrid))] for _ in range(len(boxGrid[0]))]
+
         row = len(boxGrid)
         col = len(boxGrid[0])
-        print(row,col)
+
         for i in range(row):
             for j in range(col):
                 ans[j][row-i-1] = boxGrid[i][j]
@@ -22,5 +23,3 @@ class Solution:
                 fast -=1
         
         return ans
-
-
