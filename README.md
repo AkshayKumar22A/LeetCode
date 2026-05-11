@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/AkshayKumar22A/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/AkshayKumar22A/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/AkshayKumar22A/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/AkshayKumar22A/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AkshayKumar22A/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/AkshayKumar22A/LeetCode/tree/main/0441-arranging-coins/) | Easy |
