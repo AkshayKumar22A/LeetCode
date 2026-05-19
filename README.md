@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshayKumar22A/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/AkshayKumar22A/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AkshayKumar22A/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AkshayKumar22A/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/AkshayKumar22A/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/AkshayKumar22A/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AkshayKumar22A/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Matrix
